@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\bin\Debug\net6.0\TodoDomain.deps.json
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\bin\Debug\net6.0\TodoDomain.dll
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\bin\Debug\net6.0\TodoDomain.pdb
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\obj\Debug\net6.0\TodoDomain.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\obj\Debug\net6.0\TodoDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\obj\Debug\net6.0\TodoDomain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\obj\Debug\net6.0\TodoDomain.AssemblyInfo.cs
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\obj\Debug\net6.0\TodoDomain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\obj\Debug\net6.0\TodoDomain.dll
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\obj\Debug\net6.0\refint\TodoDomain.dll
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\obj\Debug\net6.0\TodoDomain.pdb
+C:\Users\USER\Desktop\Week 6 Task\TodoDomain\obj\Debug\net6.0\ref\TodoDomain.dll
